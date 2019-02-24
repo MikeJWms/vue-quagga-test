@@ -1,4 +1,4 @@
-# scan_test
+# vue-quagga-test
 
 ## Project setup
 ```
